@@ -5,7 +5,8 @@ E125 Ethics Final Assignment Website
 
 Welcome to the **Ethics in Engineering** website! This project explores key ethical dilemmas faced by engineers, the responsibilities they have to society, and how they navigate difficult decisions.  
 *Created by Baris Oktay*
-
+<link rel="stylesheet" href="styles.css">
+<script src="scripts.js"></script>
 ---
 
 ## Table of Contents
