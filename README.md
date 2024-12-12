@@ -7,6 +7,16 @@ Welcome to the **Ethics in Engineering** website! This project explores key ethi
 *Created by Baris Oktay*
 <link rel="stylesheet" href="styles.css">
 <script src="scripts.js"></script>
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom, #d3d3d3, #ffffff); /* Grey to white gradient */
+    min-height: 100vh; /* Full viewport height */
+    overflow-x: hidden;
+  }
+</style>
 ---
 
 ## Table of Contents
