@@ -19,3 +19,9 @@ button:hover {
   margin-top: 10px;
   border-radius: 5px;
 }
+.trolley-bg {
+    background-image: url('https://example.com/trolley-background.jpg'); /* Replace with your background image URL */
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+  }
