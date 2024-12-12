@@ -42,3 +42,16 @@ button:hover {
     align-items: center; /* Vertically center the content */
     justify-content: center; /* Horizontally center the content */
   }
+.text-box {
+    position: absolute; /* Position relative to the parent */
+    top: 50%; /* Center vertically */
+    left: 50%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Adjust for perfect centering */
+    background-color: rgba(0, 0, 0, 0.7); /* Dark semi-transparent background */
+    padding: 20px;
+    border-radius: 8px; /* Rounded corners */
+    color: white; /* Text color */
+    max-width: 80%; /* Optional: limits width of the box */
+    text-align: center; /* Centers text */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5); /* Optional: Adds a subtle shadow */
+  }
