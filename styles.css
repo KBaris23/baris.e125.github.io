@@ -24,9 +24,9 @@ button:hover {
     margin-bottom: 30px;
     color: white;
     border-radius: 8px;
-    position: relative; /* For positioning the text on top of the background */
-    overflow: hidden; /* Ensure no content spills out */
-    height: 300px; /* Set height for the container */
+    position: relative; /*For positioning the text on top of the background*/
+    overflow: hidden; /*Ensure no content spills out*/
+    height: 300px; /*Set height for the container*/
   }
 .scenario-bg::before {
   content: "";
@@ -66,16 +66,17 @@ button:hover {
 .climate_change-bg {
   background-image: url('images/trolley.jpg');
   }
+/*I didn't use this, but just in case*/
 .text-box {
     position: absolute; /* Position relative to the parent */
     top: 50%; /* Center vertically */
     left: 50%; /* Center horizontally */
-    transform: translate(-50%, -50%); /* Adjust for perfect centering */
-    background-color: rgba(0, 0, 0, 0.7); /* Dark semi-transparent background */
+    transform: translate(-50%, -50%)
+    background-color: rgba(0, 0, 0, 0.7);
     padding: 20px;
-    border-radius: 8px; /* Rounded corners */
+    border-radius: 8px;
     color: white; /* Text color */
-    max-width: 80%; /* Optional: limits width of the box */
+    max-width: 80%;
     text-align: center; /* Centers text */
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5); /* Optional: Adds a subtle shadow */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
   }
