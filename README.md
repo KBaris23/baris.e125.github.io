@@ -28,7 +28,7 @@ In this project, we’ll explore **ethical decision-making** using real-world sc
 ---
 
 ## Common Ethical Dilemma Scenarios
-
+You can click on the option buttons after each scenario to reveal the course of action.
 ### Scenario 1: The Trolley Problem
 <div class="scenario-bg trolley-bg">
   <!-- Helloo -->
