@@ -22,11 +22,11 @@ button:hover {
 .scenario-bg {
     padding: 20px;
     margin-bottom: 30px;
-    color: white; /* Text color for visibility */
+    color: white;
     border-radius: 8px; /* Rounded corners */
   }
 .trolley-bg {
-    background-image: url('https://www.google.com/imgres?q=trolley%20problem&imgurl=https%3A%2F%2Fthesixthformreview.wordpress.com%2Fwp-content%2Fuploads%2F2021%2F07%2F1_8cs-6f1xcvrg1iijtfk2zq.jpeg%3Fw%3D1024&imgrefurl=https%3A%2F%2Fthesixthformreview.wordpress.com%2Fthe-trolley-problem%2F&docid=GsZ_W6Bi3NUYKM&tbnid=5oEoWnqrh-AykM&vet=12ahUKEwjn-cXw6KGKAxXqH0QIHZfwD4UQM3oFCIMBEAA..i&w=1024&h=560&hcb=2&ved=2ahUKEwjn-cXw6KGKAxXqH0QIHZfwD4UQM3oFCIMBEAA'); /* Replace with your background image URL */
+    background-image: url('https://www.google.com/imgres?q=san%20francisco%20trolley&imgurl=https%3A%2F%2Fi0.wp.com%2Fwww.streetcar.org%2Fwp-content%2Fuploads%2F1010-Powell-16-Flood-Bldg-Val-Lupiz-011421-web-1.jpg%3Ffit%3D1954%252C765%26ssl%3D1&imgrefurl=https%3A%2F%2Fwww.streetcar.org%2Frider-information-map-2%2F&docid=82Hx9BZGTchYGM&tbnid=0wsUojsIr3BS0M&vet=12ahUKEwif7KGy6qGKAxW-l-4BHeewLhgQM3oECGIQAA..i&w=1954&h=765&hcb=2&ved=2ahUKEwif7KGy6qGKAxW-l-4BHeewLhgQM3oECGIQAA'); /* Replace with your background image URL */
     background-size: cover;
     background-position: center;
     height: 300px;
