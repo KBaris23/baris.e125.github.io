@@ -52,13 +52,15 @@ This scenario emphasizes the importance of **integrity** and the duty engineers 
 
 You are working as a software engineer for a company that develops autonomous vehicles. The vehicle's software encounters a situation where the car must decide between hitting a pedestrian who suddenly appears in front of the car or swerving to avoid them, which could result in the death of the passenger.
 
-<button onclick="toggleOptions('av-options')">Show Options</button>
+<button onclick="revealOption('option1')">Option 1: Prioritize the passenger</button>
+<button onclick="revealOption('option2')">Option 2: Prioritize the pedestrian</button>
 
-<div id="av-options" style="display:none; margin-top: 10px;">
-  <ul>
-    <li><strong>Option 1:</strong> Program the vehicle to prioritize saving the passenger, even if it means hitting the pedestrian.</li>
-    <li><strong>Option 2:</strong> Program the vehicle to prioritize saving the pedestrian, potentially sacrificing the passenger’s safety.</li>
-  </ul>
+<div id="option1" class="options" style="display:none; margin-top: 10px;">
+  <p>You chose to prioritize the passenger, even if it means hitting the pedestrian.</p>
+</div>
+
+<div id="option2" class="options" style="display:none; margin-top: 10px;">
+  <p>You chose to prioritize the pedestrian, potentially sacrificing the passenger’s safety.</p>
 </div>
 
 **Reflection:**  
