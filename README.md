@@ -34,8 +34,16 @@ In this project, we’ll explore **ethical decision-making** using real-world sc
 
 Perhaps the most famous ethical dilemma, in this scenario, you must choose whether to divert a runaway trolley to a track that will kill one person or keep it on the track that will kill five people. This scenario explores **utilitarianism** versus **deontological ethics**, posing the question of whether it is acceptable to sacrifice one life to save many.
 
-- **Option 1:** Divert the trolley to the track with one person.
-- **Option 2:** Keep the trolley on its current track, causing the death of five people.
+<button onclick="revealOption('option1')">Option 1: Divert the trolley</button>
+<button onclick="revealOption('option2')">Option 2: Do nothing</button>
+
+<div id="option1" class="options" style="display:none; margin-top: 10px;">
+  <p>You chose to divert the trolley to the track with one person, saving 5 people but killing 1. This is the utilitarianism approach.</p>
+</div>
+
+<div id="option2" class="options" style="display:none; margin-top: 10px;">
+  <p>You chose to do nothing, keeping the trolley on its current track, causing the death of five people. This is the deontological approach. </p>
+</div>
 
 **Reflection:**  
 This scenario highlights the ethical tension between saving the most lives and the moral implications of actively choosing who lives or dies. As engineers, we often face similar decisions where the **public good** must be weighed against individual safety or rights.
@@ -43,9 +51,16 @@ This scenario highlights the ethical tension between saving the most lives and t
 ### Scenario 2: Bribery at Work
 
 Let's say you are a civil engineer overseeing the construction of a building. A contractor offers you a bribe to use cheaper, unsafe materials for the ground floor columns. If you refuse, you’ll be fired.
+<button onclick="revealOption('option1')">Option 1: Accept the bribe</button>
+<button onclick="revealOption('option2')">Option 2: Refuse the bribe</button>
 
-- **Option 1:** Accept the bribe and compromise safety for financial gain.
-- **Option 2:** Refuse the bribe, risking your job but upholding safety standards.
+<div id="option1" class="options" style="display:none; margin-top: 10px;">
+  <p>You chose to accept the bribe and compromise safety for financial gain.</p>
+</div>
+
+<div id="option2" class="options" style="display:none; margin-top: 10px;">
+  <p>You chose to refuse the bribe, risking your job but upholding safety standards, possibly saving hundreds of lives.</p>
+</div>
 
 **Reflection:**  
 This scenario emphasizes the importance of **integrity** and the duty engineers have to prioritize safety and public well-being over personal gain.
@@ -71,8 +86,16 @@ This scenario explores the **moral responsibility** of engineers who create syst
 
 You are an engineer at a company that manufactures a product that has become increasingly popular. However, the production process is harmful to the environment, emitting large amounts of greenhouse gases and creating toxic waste. Management asks you to oversee a new project to increase production to meet demand, knowing that it will lead to greater environmental damage.
 
-- **Option 1:** Proceed with the project, ignoring the environmental consequences to ensure the company’s profitability and market share.
-- **Option 2:** Advocate for a more sustainable, but costly, production method that would reduce emissions and waste, possibly leading to lower profits.
+<button onclick="revealOption('option1')">Option 1: Proceed with the project</button>
+<button onclick="revealOption('option2')">Option 2: Stop the project</button>
+
+<div id="option1" class="options" style="display:none; margin-top: 10px;">
+  <p>You chose to ignore the environmental consequences to ensure the company’s profitability and market share.</p>
+</div>
+
+<div id="option2" class="options" style="display:none; margin-top: 10px;">
+  <p>You chose to advocate for a more sustainable, but costly, production method that would reduce emissions and waste, possibly leading to lower profits.</p>
+</div>
 
 **Reflection:**  
 This scenario highlights the **balance between economic gain and environmental sustainability**. Engineers often face the challenge of designing solutions that benefit society while minimizing harm to the environment. The ethical question is whether **profit** should ever outweigh **environmental responsibility**.
@@ -81,8 +104,16 @@ This scenario highlights the **balance between economic gain and environmental s
 
 You are an engineer working on the design of a large infrastructure project (e.g., a bridge). During the testing phase, you realize that certain structural components of the design are unsafe and could lead to a collapse under certain conditions. The project is behind schedule and your manager pressures you to approve the design for construction, downplaying the risks.
 
-- **Option 1:** Approve the design and keep quiet, hoping that the risks are unlikely to occur or will be addressed later.
-- **Option 2:** Blow the whistle on the unsafe design, potentially delaying the project and causing financial losses to the company.
+<button onclick="revealOption('option1')">Option 1:  Approve the design</button>
+<button onclick="revealOption('option2')">Option 2: Blow the whistle</button>
+
+<div id="option1" class="options" style="display:none; margin-top: 10px;">
+  <p>You chose to approve the design and keep quiet, hoping that the risks are unlikely to occur or will be addressed later.</p>
+</div>
+
+<div id="option2" class="options" style="display:none; margin-top: 10px;">
+  <p>You chose to blow the whistle on the unsafe design, potentially delaying the project and causing financial losses to the company.</p>
+</div>
 
 **Reflection:**  
 This scenario explores the ethics of **whistleblowing** and whether engineers should prioritize safety, even when doing so may cause financial harm or reputational damage to the company. Should an engineer ever **compromise safety** for financial or professional gain?
@@ -91,8 +122,17 @@ This scenario explores the ethics of **whistleblowing** and whether engineers sh
  
 As a data scientist, you are working on an AI project designed to automate tasks that are currently done by human workers, such as customer service or data entry. The AI could dramatically reduce costs for the company, but it will also lead to job losses for many employees. Management is pressuring you to complete the project quickly.
 
-- **Option 1:** Complete the project and implement the AI, which will improve efficiency but result in widespread job losses.
-- **Option 2:** Halt or delay the project to investigate alternatives that would reduce job displacement, even if it means less profit for the company.
+<button onclick="revealOption('option1')">Option 1:  Implement the AI</button>
+<button onclick="revealOption('option2')">Option 2: Delay the project</button>
+
+<div id="option1" class="options" style="display:none; margin-top: 10px;">
+  <p>You chose to implement the AI, which will improve efficiency but result in widespread job losses..</p>
+</div>
+
+<div id="option2" class="options" style="display:none; margin-top: 10px;">
+  <p>You chose to halt or delay the project to investigate alternatives that would reduce job displacement, even if it means less profit for the company.</p>
+</div>
+
 
 **Reflection:**  
 This scenario examines the ethics of **automation** and **job displacement**. As AI and automation technologies become more prevalent, engineers must consider the broader **social and economic impact** of their work. Should the focus be solely on **profit and efficiency**, or should engineers take a more **human-centered** approach to technology?
@@ -101,8 +141,16 @@ This scenario examines the ethics of **automation** and **job displacement**. As
 
 As a software engineer working for a company that develops mobile apps, you discover that your app is collecting more personal data than it needs, and some of this data is being shared with third-party advertisers. The app’s privacy policy is vague, and users are not fully informed about how their data is being used.
 
-- **Option 1:** Keep the data collection practices as they are to increase ad revenue, even if it means users’ privacy is compromised.
-- **Option 2:** Revise the app’s privacy policy and limit the data collection, even though it could decrease the company’s ad revenue.
+<button onclick="revealOption('option1')">Option 1: Keep the same policy</button>
+<button onclick="revealOption('option2')">Option 2: Revise the policy but less revenue</button>
+
+<div id="option1" class="options" style="display:none; margin-top: 10px;">
+  <p>You chose to keep the data collection practices as they are to increase ad revenue, even if it means users’ privacy is compromised.</p>
+</div>
+
+<div id="option2" class="options" style="display:none; margin-top: 10px;">
+  <p>You chose to revise the app’s privacy policy and limit the data collection, even though it could decrease the company’s ad revenue. </p>
+</div>
 
 **Reflection:**  
 This scenario delves into the ethics of **data privacy** and **user consent**. As engineers and developers, there’s an ethical responsibility to respect users’ privacy, even when it may conflict with business goals like revenue generation. What is the **ethical limit** of data collection, and how much **transparency** should companies provide to users?
@@ -111,8 +159,17 @@ This scenario delves into the ethics of **data privacy** and **user consent**. A
 
 You work as an engineer at a technology company that is developing a new social media platform. The platform has the potential to revolutionize communication, but it also has serious concerns related to mental health, privacy, and addiction. The company wants to push forward with the launch to capitalize on its success.
 
-- **Option 1:** Develop the platform as planned, focusing on growth and profit, despite its potential harmful effects on users.
-- **Option 2:** Advocate for changes in the platform’s design to mitigate potential risks, even though it might delay the launch and reduce profits.
+<button onclick="revealOption('option1')">Option 1: Develop the platform</button>
+<button onclick="revealOption('option2')">Option 2: Advocate for changes</button>
+
+<div id="option1" class="options" style="display:none; margin-top: 10px;">
+  <p>You chose to develop the platform as planned, focusing on growth and profit, despite its potential harmful effects on users. </p>
+</div>
+
+<div id="option2" class="options" style="display:none; margin-top: 10px;">
+  <p>You chose to advocate for changes in the platform’s design to mitigate potential risks, even though it might delay the launch and reduce profits. </p>
+</div>
+
 
 **Reflection:**  
 This scenario raises questions about the **social responsibility** of engineers in designing technologies that directly affect society. While technological progress offers great potential, it also comes with risks. How much responsibility do engineers have for the **long-term societal impact** of the technologies they create?
@@ -121,8 +178,16 @@ This scenario raises questions about the **social responsibility** of engineers 
 
 You are an engineer working for a company that specializes in manufacturing electric cars. Your company has the opportunity to scale up production, but the demand for raw materials like lithium and cobalt, which are crucial for batteries, is increasing. The environmental impact of mining these materials is significant, but scaling production is seen as a key part of addressing climate change by promoting electric vehicles.
 
-- **Option 1:** Continue scaling production to meet demand, even though it might harm the environment.
-- **Option 2:** Propose new sustainable approaches, even though it might delay production and be costly.
+<button onclick="revealOption('option1')">Option 1: Continue scaling production</button>
+<button onclick="revealOption('option2')">Option 2: Delay production and possibly lose your job</button>
+
+<div id="option1" class="options" style="display:none; margin-top: 10px;">
+  <p>You chose to continue scaling production to meet demand, even though it might harm the environment. </p>
+</div>
+
+<div id="option2" class="options" style="display:none; margin-top: 10px;">
+  <p>You chose to propose new sustainable approaches, even though it might delay production and be costly. </p>
+</div>
 
 **Reflection:**  
 This scenario explores the intersection of **environmental responsibility** and **technological innovation**. Engineers must consider the long-term environmental impact of the resources they use and how their work contributes to larger global challenges, like **climate change**.
