@@ -31,7 +31,7 @@ In this project, we’ll explore **ethical decision-making** using real-world sc
 
 ### Scenario 1: The Trolley Problem
 <div class="scenario-bg trolley-bg">
-  <!-- Your content here -->
+  <!-- Helloo -->
 </div>
 Perhaps the most famous ethical dilemma, in this scenario, you must choose whether to divert a runaway trolley to a track that will kill one person or keep it on the track that will kill five people. This scenario explores **utilitarianism** versus **deontological ethics**, posing the question of whether it is acceptable to sacrifice one life to save many.
 
