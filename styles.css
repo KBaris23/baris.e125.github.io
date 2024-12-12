@@ -19,6 +19,12 @@ button:hover {
   margin-top: 10px;
   border-radius: 5px;
 }
+.scenario-bg {
+    padding: 20px;
+    margin-bottom: 30px;
+    color: white; /* Text color for visibility */
+    border-radius: 8px; /* Rounded corners */
+  }
 .trolley-bg {
     background-image: url('https://www.google.com/imgres?q=trolley%20problem&imgurl=https%3A%2F%2Fthesixthformreview.wordpress.com%2Fwp-content%2Fuploads%2F2021%2F07%2F1_8cs-6f1xcvrg1iijtfk2zq.jpeg%3Fw%3D1024&imgrefurl=https%3A%2F%2Fthesixthformreview.wordpress.com%2Fthe-trolley-problem%2F&docid=GsZ_W6Bi3NUYKM&tbnid=5oEoWnqrh-AykM&vet=12ahUKEwjn-cXw6KGKAxXqH0QIHZfwD4UQM3oFCIMBEAA..i&w=1024&h=560&hcb=2&ved=2ahUKEwjn-cXw6KGKAxXqH0QIHZfwD4UQM3oFCIMBEAA'); /* Replace with your background image URL */
     background-size: cover;
