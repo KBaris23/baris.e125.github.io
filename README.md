@@ -13,10 +13,9 @@ Welcome to the **Ethics in Engineering** website! This project explores key ethi
 1. [Introduction](#introduction)
 2. [Common Ethical Dilemma Scenarios](#common-ethical-dilemma-scenarios)
 3. [My Personal Code of Ethics](#my-personal-code-of-ethics)
-4. [Interactive Ethics Related Games](#interactive-ethics-related-games)
-5. [Educational Resources](#educational-resources)
-6. [Reflection & Learning](#reflection--learning)
-7. [Contact & About Me](#contact--about-me)
+4. [Educational Resources](#educational-resources)
+5. [Reflection & Learning](#reflection--learning)
+6. [Contact & About Me](#contact--about-me)
 
 ---
 
@@ -206,13 +205,6 @@ As an engineer, my ethical code serves as a guide for how I will make decisions 
 
 ---
 
-## Interactive Ethics Related Games
-
-Here are some links for ethics related games. You can play their preview here
-1.
-2.
-
----
 
 ## Educational Resources
 
