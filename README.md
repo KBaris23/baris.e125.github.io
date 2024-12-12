@@ -10,9 +10,9 @@ Welcome to the **Ethics in Engineering** website! This project explores key ethi
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Ethical Scenarios](#ethical-scenarios)
-3. [Your Personal Code of Ethics](#your-personal-code-of-ethics)
-4. [Interactive Ethical Games](#interactive-ethical-games)
+2. [Common Ethical Dilemma Scenarios](#common-ethical-dilemma-scenarios)
+3. [My Personal Code of Ethics](#my-personal-code-of-ethics)
+4. [Interactive Ethics Related Games](#interactive-ethics-related-games)
 5. [Educational Resources](#educational-resources)
 6. [Reflection & Learning](#reflection--learning)
 7. [Contact & About Me](#contact--about-me)
@@ -27,11 +27,11 @@ In this project, we’ll explore **ethical decision-making** using real-world sc
 
 ---
 
-## Ethical Scenarios
+## Common Ethical Dilemma Scenarios
 
 ### Scenario 1: The Trolley Problem
 
-In this scenario, you must choose whether to divert a runaway trolley to a track that will kill one person or keep it on the track that will kill five people. This scenario explores **utilitarianism** versus **deontological ethics**, posing the question of whether it is acceptable to sacrifice one life to save many.
+Perhaps the most famous ethical dilemma, in this scenario, you must choose whether to divert a runaway trolley to a track that will kill one person or keep it on the track that will kill five people. This scenario explores **utilitarianism** versus **deontological ethics**, posing the question of whether it is acceptable to sacrifice one life to save many.
 
 - **Option 1:** Divert the trolley to the track with one person.
 - **Option 2:** Keep the trolley on its current track, causing the death of five people.
@@ -39,19 +39,88 @@ In this scenario, you must choose whether to divert a runaway trolley to a track
 **Reflection:**  
 This scenario highlights the ethical tension between saving the most lives and the moral implications of actively choosing who lives or dies. As engineers, we often face similar decisions where the **public good** must be weighed against individual safety or rights.
 
-### Scenario 2: Bribery in Construction
+### Scenario 2: Bribery at Work
 
-You are a civil engineer overseeing the construction of a building. A contractor offers you a bribe to use cheaper, unsafe materials for the ground floor columns. If you refuse, you’ll be fired.
+Let's say you are a civil engineer overseeing the construction of a building. A contractor offers you a bribe to use cheaper, unsafe materials for the ground floor columns. If you refuse, you’ll be fired.
 
 - **Option 1:** Accept the bribe and compromise safety for financial gain.
 - **Option 2:** Refuse the bribe, risking your job but upholding safety standards.
 
 **Reflection:**  
 This scenario emphasizes the importance of **integrity** and the duty engineers have to prioritize safety and public well-being over personal gain.
+### Scenario 3: Autonomous Vehicle Decision-Making
+
+You are working as a software engineer for a company that develops autonomous vehicles. The vehicle's software encounters a situation where the car must decide between hitting a pedestrian who suddenly appears in front of the car or swerving to avoid them, which could result in the death of the passenger.
+
+- **Option 1:** Program the vehicle to prioritize saving the passenger, even if it means hitting the pedestrian.
+- **Option 2:** Program the vehicle to prioritize saving the pedestrian, potentially sacrificing the passenger’s safety.
+
+**Reflection:**  
+This scenario explores the **moral responsibility** of engineers who create systems that affect human lives. Should the car prioritize human life in a more general sense, or should the passengers' safety always be the priority? This raises questions about **algorithmic bias** and the trade-offs in autonomous decision-making.
+
+### Scenario 4: Environmental Impact vs. Profit
+
+You are an engineer at a company that manufactures a product that has become increasingly popular. However, the production process is harmful to the environment, emitting large amounts of greenhouse gases and creating toxic waste. Management asks you to oversee a new project to increase production to meet demand, knowing that it will lead to greater environmental damage.
+
+- **Option 1:** Proceed with the project, ignoring the environmental consequences to ensure the company’s profitability and market share.
+- **Option 2:** Advocate for a more sustainable, but costly, production method that would reduce emissions and waste, possibly leading to lower profits.
+
+**Reflection:**  
+This scenario highlights the **balance between economic gain and environmental sustainability**. Engineers often face the challenge of designing solutions that benefit society while minimizing harm to the environment. The ethical question is whether **profit** should ever outweigh **environmental responsibility**.
+
+### Scenario 5: Whistleblowing on Unsafe Designs
+
+You are an engineer working on the design of a large infrastructure project (e.g., a bridge). During the testing phase, you realize that certain structural components of the design are unsafe and could lead to a collapse under certain conditions. The project is behind schedule and your manager pressures you to approve the design for construction, downplaying the risks.
+
+- **Option 1:** Approve the design and keep quiet, hoping that the risks are unlikely to occur or will be addressed later.
+- **Option 2:** Blow the whistle on the unsafe design, potentially delaying the project and causing financial losses to the company.
+
+**Reflection:**  
+This scenario explores the ethics of **whistleblowing** and whether engineers should prioritize safety, even when doing so may cause financial harm or reputational damage to the company. Should an engineer ever **compromise safety** for financial or professional gain?
+
+### Scenario 6: Artificial Intelligence and Job Displacement
+ 
+As a data scientist, you are working on an AI project designed to automate tasks that are currently done by human workers, such as customer service or data entry. The AI could dramatically reduce costs for the company, but it will also lead to job losses for many employees. Management is pressuring you to complete the project quickly.
+
+- **Option 1:** Complete the project and implement the AI, which will improve efficiency but result in widespread job losses.
+- **Option 2:** Halt or delay the project to investigate alternatives that would reduce job displacement, even if it means less profit for the company.
+
+**Reflection:**  
+This scenario examines the ethics of **automation** and **job displacement**. As AI and automation technologies become more prevalent, engineers must consider the broader **social and economic impact** of their work. Should the focus be solely on **profit and efficiency**, or should engineers take a more **human-centered** approach to technology?
+
+### Scenario 7: Data Privacy and User Consent
+
+As a software engineer working for a company that develops mobile apps, you discover that your app is collecting more personal data than it needs, and some of this data is being shared with third-party advertisers. The app’s privacy policy is vague, and users are not fully informed about how their data is being used.
+
+- **Option 1:** Keep the data collection practices as they are to increase ad revenue, even if it means users’ privacy is compromised.
+- **Option 2:** Revise the app’s privacy policy and limit the data collection, even though it could decrease the company’s ad revenue.
+
+**Reflection:**  
+This scenario delves into the ethics of **data privacy** and **user consent**. As engineers and developers, there’s an ethical responsibility to respect users’ privacy, even when it may conflict with business goals like revenue generation. What is the **ethical limit** of data collection, and how much **transparency** should companies provide to users?
+
+### Scenario 8: Social Responsibility and Technological Advancements
+
+You work as an engineer at a technology company that is developing a new social media platform. The platform has the potential to revolutionize communication, but it also has serious concerns related to mental health, privacy, and addiction. The company wants to push forward with the launch to capitalize on its success.
+
+- **Option 1:** Develop the platform as planned, focusing on growth and profit, despite its potential harmful effects on users.
+- **Option 2:** Advocate for changes in the platform’s design to mitigate potential risks, even though it might delay the launch and reduce profits.
+
+**Reflection:**  
+This scenario raises questions about the **social responsibility** of engineers in designing technologies that directly affect society. While technological progress offers great potential, it also comes with risks. How much responsibility do engineers have for the **long-term societal impact** of the technologies they create?
+
+### Scenario 9: Engineer’s Role in Addressing Climate Change**
+
+You are an engineer working for a company that specializes in manufacturing electric cars. Your company has the opportunity to scale up production, but the demand for raw materials like lithium and cobalt, which are crucial for batteries, is increasing. The environmental impact of mining these materials is significant, but scaling production is seen as a key part of addressing climate change by promoting electric vehicles.
+
+- **Option 1:** Continue scaling production to meet demand, even though it might harm the environment.
+- **Option 2:** Propose new sustainable approaches, even though it might delay production and be costly.
+
+**Reflection:**  
+This scenario explores the intersection of **environmental responsibility** and **technological innovation**. Engineers must consider the long-term environmental impact of the resources they use and how their work contributes to larger global challenges, like **climate change**.
 
 ---
 
-## Your Personal Code of Ethics
+## My Personal Code of Ethics
 
 As an engineer, my ethical code serves as a guide for how I will make decisions that balance **technical expertise** with a commitment to **public good**. Below is a summary of the ethical principles that I aim to uphold in my career:
 
@@ -63,14 +132,11 @@ As an engineer, my ethical code serves as a guide for how I will make decisions 
 
 ---
 
-## Interactive Ethical Games
+## Interactive Ethics Related Games
 
-Explore the **ethical dilemmas** through interactive games. Try to make decisions in real-time and see the consequences of your choices.
-
-- **Trolley Problem Simulation**: Make your decision on the trolley problem and watch how your choice impacts the outcome.
-- **Workplace Ethics Game**: Play as a civil engineer deciding whether to accept or refuse a bribe from a contractor.
-
-These games are designed to help you understand the complexities of ethical decision-making in engineering.
+Here are some links for ethics related games. You can play their preview here
+1.
+2.
 
 ---
 
@@ -109,10 +175,7 @@ Hello! I am Baris, an aspiring engineer with a passion for computer architecture
 
 Feel free to reach out to me for questions, feedback, or just a discussion about ethics in engineering.
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-- **GitHub**: [Your GitHub](https://github.com/your-username)
-
+- **GitHub**: [Your GitHub](https://github.com/KBaris23)
 ---
 
 ## License
@@ -120,6 +183,6 @@ Feel free to reach out to me for questions, feedback, or just a discussion about
 This project is licensed under the **MIT License**. You can use, modify, and distribute the code with attribution.
 
 
-1. Clone the repository:
+To clone the repository attached to this website:
    ```bash
    git clone https://github.com/username/repository-name.git
