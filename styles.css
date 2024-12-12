@@ -38,10 +38,45 @@ button:hover {
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
   z-index: 1;
 }
-.trolley-bg {
+.bribe-bg {
     background: 
       linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), /* Gradient fading from top to bottom */
-      url('images/trolley.jpg'); /* Image in your images folder */
+      url('images/trolley.jpg');
+  }
+.auton-bg {
+    background: 
+      linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), /* Gradient fading from top to bottom */
+      url('images/trolley.jpg');
+  }
+.environment-bg {
+    background: 
+      linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), /* Gradient fading from top to bottom */
+      url('images/trolley.jpg');
+  }
+.plane-bg {
+    background: 
+      linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), /* Gradient fading from top to bottom */
+      url('images/trolley.jpg');
+  }
+.ai-bg {
+    background: 
+      linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), /* Gradient fading from top to bottom */
+      url('images/trolley.jpg');
+  }
+.data-bg {
+    background: 
+      linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), /* Gradient fading from top to bottom */
+      url('images/trolley.jpg');
+  }
+.social_media-bg {
+    background: 
+      linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), /* Gradient fading from top to bottom */
+      url('images/trolley.jpg');
+  }
+.climate_change-bg {
+    background: 
+      linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0)), /* Gradient fading from top to bottom */
+      url('images/trolley.jpg');
   }
 .text-box {
     position: absolute; /* Position relative to the parent */
