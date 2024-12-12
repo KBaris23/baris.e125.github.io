@@ -9,7 +9,7 @@ Welcome to the **Ethics in Engineering** website! This project explores key ethi
 <script src="scripts.js"></script>
 <style>
   body {
-    background: linear-gradient(to bottom, #d3d3d3, #ffffff); /* Grey to white gradient */
+    background: linear-gradient(to right, #d3d3d3, #ffffff); /* Grey to white gradient */
   }
 </style>
 ---
