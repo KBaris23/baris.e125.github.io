@@ -31,8 +31,9 @@ In this project, we’ll explore **ethical decision-making** using real-world sc
 You can click on the option buttons after each scenario to reveal the course of action.
 ### Scenario 1: The Trolley Problem
 <div class="scenario-bg trolley-bg">
-  <p> Perhaps the most famous ethical dilemma, in this scenario, you must choose whether to divert a runaway trolley to a track that will kill one person or keep it on the track that will kill five people. This scenario explores **utilitarianism** versus **deontological ethics**, posing the question of whether it is acceptable to sacrifice one life to save many. </p>
+  <p> </p>
 </div>
+
 Perhaps the most famous ethical dilemma, in this scenario, you must choose whether to divert a runaway trolley to a track that will kill one person or keep it on the track that will kill five people. This scenario explores **utilitarianism** versus **deontological ethics**, posing the question of whether it is acceptable to sacrifice one life to save many.
 
 <button onclick="revealOption('option11')">Option 1: Divert the trolley</button>
@@ -50,7 +51,9 @@ Perhaps the most famous ethical dilemma, in this scenario, you must choose wheth
 This scenario highlights the ethical tension between saving the most lives and the moral implications of actively choosing who lives or dies. As engineers, we often face similar decisions where the **public good** must be weighed against individual safety or rights.
 
 ### Scenario 2: Bribery at Work
-
+<div class="scenario-bg trolley-bg">
+  <p> </p>
+</div>
 Let's say you are a civil engineer overseeing the construction of a building. A contractor offers you a bribe to use cheaper, unsafe materials for the ground floor columns. If you refuse, you’ll be fired.
 <button onclick="revealOption('option21')">Option 1: Accept the bribe</button>
 <button onclick="revealOption('option22')">Option 2: Refuse the bribe</button>
@@ -66,7 +69,9 @@ Let's say you are a civil engineer overseeing the construction of a building. A 
 **Reflection:**  
 This scenario emphasizes the importance of **integrity** and the duty engineers have to prioritize safety and public well-being over personal gain.
 ### Scenario 3: Autonomous Vehicle Decision-Making
-
+<div class="scenario-bg trolley-bg">
+  <p> </p>
+</div>
 You are working as a software engineer for a company that develops autonomous vehicles. The vehicle's software encounters a situation where the car must decide between hitting a pedestrian who suddenly appears in front of the car or swerving to avoid them, which could result in the death of the passenger.
 
 <button onclick="revealOption('option31')">Option 1: Prioritize the passenger</button>
@@ -84,7 +89,9 @@ You are working as a software engineer for a company that develops autonomous ve
 This scenario explores the **moral responsibility** of engineers who create systems that affect human lives. Should the car prioritize human life in a more general sense, or should the passengers' safety always be the priority? This raises questions about **algorithmic bias** and the trade-offs in autonomous decision-making.
 
 ### Scenario 4: Environmental Impact vs. Profit
-
+<div class="scenario-bg trolley-bg">
+  <p> </p>
+</div>
 You are an engineer at a company that manufactures a product that has become increasingly popular. However, the production process is harmful to the environment, emitting large amounts of greenhouse gases and creating toxic waste. Management asks you to oversee a new project to increase production to meet demand, knowing that it will lead to greater environmental damage.
 
 <button onclick="revealOption('option41')">Option 1: Proceed with the project</button>
@@ -102,7 +109,9 @@ You are an engineer at a company that manufactures a product that has become inc
 This scenario highlights the **balance between economic gain and environmental sustainability**. Engineers often face the challenge of designing solutions that benefit society while minimizing harm to the environment. The ethical question is whether **profit** should ever outweigh **environmental responsibility**.
 
 ### Scenario 5: Whistleblowing on Unsafe Designs
-
+<div class="scenario-bg trolley-bg">
+  <p> </p>
+</div>
 You are an engineer working on the design of a large infrastructure project (e.g., a bridge). During the testing phase, you realize that certain structural components of the design are unsafe and could lead to a collapse under certain conditions. The project is behind schedule and your manager pressures you to approve the design for construction, downplaying the risks.
 
 <button onclick="revealOption('option51')">Option 1:  Approve the design</button>
@@ -120,7 +129,9 @@ You are an engineer working on the design of a large infrastructure project (e.g
 This scenario explores the ethics of **whistleblowing** and whether engineers should prioritize safety, even when doing so may cause financial harm or reputational damage to the company. Should an engineer ever **compromise safety** for financial or professional gain?
 
 ### Scenario 6: Artificial Intelligence and Job Displacement
- 
+<div class="scenario-bg trolley-bg">
+  <p> </p>
+</div>
 As a data scientist, you are working on an AI project designed to automate tasks that are currently done by human workers, such as customer service or data entry. The AI could dramatically reduce costs for the company, but it will also lead to job losses for many employees. Management is pressuring you to complete the project quickly.
 
 <button onclick="revealOption('option61')">Option 1:  Implement the AI</button>
@@ -139,7 +150,9 @@ As a data scientist, you are working on an AI project designed to automate tasks
 This scenario examines the ethics of **automation** and **job displacement**. As AI and automation technologies become more prevalent, engineers must consider the broader **social and economic impact** of their work. Should the focus be solely on **profit and efficiency**, or should engineers take a more **human-centered** approach to technology?
 
 ### Scenario 7: Data Privacy and User Consent
-
+<div class="scenario-bg trolley-bg">
+  <p> </p>
+</div>
 As a software engineer working for a company that develops mobile apps, you discover that your app is collecting more personal data than it needs, and some of this data is being shared with third-party advertisers. The app’s privacy policy is vague, and users are not fully informed about how their data is being used.
 
 <button onclick="revealOption('option71')">Option 1: Keep the same policy</button>
@@ -157,7 +170,9 @@ As a software engineer working for a company that develops mobile apps, you disc
 This scenario delves into the ethics of **data privacy** and **user consent**. As engineers and developers, there’s an ethical responsibility to respect users’ privacy, even when it may conflict with business goals like revenue generation. What is the **ethical limit** of data collection, and how much **transparency** should companies provide to users?
 
 ### Scenario 8: Social Responsibility and Technological Advancements
-
+<div class="scenario-bg trolley-bg">
+  <p> </p>
+</div>
 You work as an engineer at a technology company that is developing a new social media platform. The platform has the potential to revolutionize communication, but it also has serious concerns related to mental health, privacy, and addiction. The company wants to push forward with the launch to capitalize on its success.
 
 <button onclick="revealOption('option81')">Option 1: Develop the platform</button>
@@ -176,7 +191,9 @@ You work as an engineer at a technology company that is developing a new social 
 This scenario raises questions about the **social responsibility** of engineers in designing technologies that directly affect society. While technological progress offers great potential, it also comes with risks. How much responsibility do engineers have for the **long-term societal impact** of the technologies they create?
 
 ### Scenario 9: Engineer’s Role in Addressing Climate Change
-
+<div class="scenario-bg trolley-bg">
+  <p> </p>
+</div>
 You are an engineer working for a company that specializes in manufacturing electric cars. Your company has the opportunity to scale up production, but the demand for raw materials like lithium and cobalt, which are crucial for batteries, is increasing. The environmental impact of mining these materials is significant, but scaling production is seen as a key part of addressing climate change by promoting electric vehicles.
 
 <button onclick="revealOption('option91')">Option 1: Continue scaling production</button>
