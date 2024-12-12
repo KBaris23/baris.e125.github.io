@@ -174,7 +174,7 @@ You work as an engineer at a technology company that is developing a new social 
 **Reflection:**  
 This scenario raises questions about the **social responsibility** of engineers in designing technologies that directly affect society. While technological progress offers great potential, it also comes with risks. How much responsibility do engineers have for the **long-term societal impact** of the technologies they create?
 
-### Scenario 9: Engineer’s Role in Addressing Climate Change**
+### Scenario 9: Engineer’s Role in Addressing Climate Change
 
 You are an engineer working for a company that specializes in manufacturing electric cars. Your company has the opportunity to scale up production, but the demand for raw materials like lithium and cobalt, which are crucial for batteries, is increasing. The environmental impact of mining these materials is significant, but scaling production is seen as a key part of addressing climate change by promoting electric vehicles.
 
