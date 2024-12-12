@@ -1,11 +1,10 @@
 # baris.e125.github.io
 E125 Ethics Final Assignment Website
-# Project Title
 
 # Ethics in Engineering
 
 Welcome to the **Ethics in Engineering** website! This project explores key ethical dilemmas faced by engineers, the responsibilities they have to society, and how they navigate difficult decisions.  
-*Created by [Your Name]*
+*Created by Baris Oktay*
 
 ---
 
@@ -106,7 +105,7 @@ By applying these principles, I hope to contribute to a future where engineering
 
 ## Contact & About Me
 
-Hello! I am [Your Name], an aspiring engineer with a passion for ethics and technology. I created this website as part of my assignment for [Course Name], where I explore the intersection of **engineering** and **ethical decision-making**.  
+Hello! I am Baris, an aspiring engineer with a passion for computer architecture and power electronics technology. I created this website as part of my assignment for Engin-125 at UC Berkeley, where I explore the intersection of **engineering** and **ethical decision-making**.  
 
 Feel free to reach out to me for questions, feedback, or just a discussion about ethics in engineering.
 
