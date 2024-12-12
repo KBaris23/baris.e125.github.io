@@ -52,8 +52,14 @@ This scenario emphasizes the importance of **integrity** and the duty engineers 
 
 You are working as a software engineer for a company that develops autonomous vehicles. The vehicle's software encounters a situation where the car must decide between hitting a pedestrian who suddenly appears in front of the car or swerving to avoid them, which could result in the death of the passenger.
 
-- **Option 1:** Program the vehicle to prioritize saving the passenger, even if it means hitting the pedestrian.
-- **Option 2:** Program the vehicle to prioritize saving the pedestrian, potentially sacrificing the passenger’s safety.
+<button onclick="toggleOptions('av-options')">Show Options</button>
+
+<div id="av-options" style="display:none; margin-top: 10px;">
+  <ul>
+    <li><strong>Option 1:</strong> Program the vehicle to prioritize saving the passenger, even if it means hitting the pedestrian.</li>
+    <li><strong>Option 2:</strong> Program the vehicle to prioritize saving the pedestrian, potentially sacrificing the passenger’s safety.</li>
+  </ul>
+</div>
 
 **Reflection:**  
 This scenario explores the **moral responsibility** of engineers who create systems that affect human lives. Should the car prioritize human life in a more general sense, or should the passengers' safety always be the priority? This raises questions about **algorithmic bias** and the trade-offs in autonomous decision-making.
