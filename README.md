@@ -175,7 +175,7 @@ Hello! I am Baris, an aspiring engineer with a passion for computer architecture
 
 Feel free to reach out to me for questions, feedback, or just a discussion about ethics in engineering.
 
-- **GitHub**: [Your GitHub](https://github.com/KBaris23)
+- **GitHub**: (https://github.com/KBaris23)
 ---
 
 ## License
