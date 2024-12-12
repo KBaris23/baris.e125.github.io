@@ -142,7 +142,7 @@ This scenario examines the ethics of **automation** and **job displacement**. As
 As a software engineer working for a company that develops mobile apps, you discover that your app is collecting more personal data than it needs, and some of this data is being shared with third-party advertisers. The app’s privacy policy is vague, and users are not fully informed about how their data is being used.
 
 <button onclick="revealOption('option1')">Option 1: Keep the same policy</button>
-<button onclick="revealOption('option2')">Option 2: Revise the policy but less revenue</button>
+<button onclick="revealOption('option2')">Option 2: Revise the policy</button>
 
 <div id="option1" class="options" style="display:none; margin-top: 10px;">
   <p>You chose to keep the data collection practices as they are to increase ad revenue, even if it means users’ privacy is compromised.</p>
